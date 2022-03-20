@@ -18,7 +18,7 @@ Unet architecture + Resnet50 Pretrained
 ## Perceptual Loss 
 ![Screenshot 2022-03-15 063356](https://user-images.githubusercontent.com/80930272/158277832-6504ead5-2900-4605-a459-0fac9202bd7c.png)
 
-# Training: 150 epochs
+# Training: I used Kaggle to train model.
 ## Start Training
 ![ressult_in_training](https://user-images.githubusercontent.com/80930272/158277969-66184b92-e437-4285-b920-eadf49e47319.png)
 ## Finish Training
