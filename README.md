@@ -32,6 +32,6 @@ Unet architecture + Resnet50 Pretrained
 ![testing_result_8](https://user-images.githubusercontent.com/80930272/158278269-cc5d3ebe-92a8-4603-aed4-80cde15f59e9.png)
 
 # Reference
-https://arxiv.org/abs/2104.01867
-https://arxiv.org/pdf/1505.04597v1.pdf
-https://github.com/VinAIResearch/CPM
+## https://arxiv.org/abs/2104.01867
+## https://arxiv.org/pdf/1505.04597v1.pdf
+## https://github.com/VinAIResearch/CPM
